@@ -1,0 +1,15 @@
+{
+    "title": "What's new shows goes here",
+    "shows": [
+        {
+            "key": 0,
+            "caption": "Mr. Robot",
+            "thumbnail": "../assets/images/thumb-01.png"
+        },
+        {
+            "key": 1,
+            "caption": "Breaking Bad",
+            "thumbnail": "../assets/images/thumb-01.png"
+        }
+    ]
+}
